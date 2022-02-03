@@ -12,7 +12,7 @@ function App() {
       {/* <Selecao /> */}
       {/*<Textbox/>*/}
       {/*<Sel1 />*/}
-      {/* <Todo1 /> */}
+      {/* <Todo /> */}
       {/* <Mujamil name="username" age="99"/> */}
     </div>
   );
