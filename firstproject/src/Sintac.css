@@ -1,3 +1,21 @@
 .int {
   background-color: grey;
+  height: 45px;
+}
+
+.intro {
+  padding-left: 150px;
+  padding-top: 10px;
+}
+
+.intro1 {
+  padding-top: 10px;
+}
+.intro2 {
+  padding-top: 10px;
+}
+
+.sin {
+  background-color: red;
+  height: 90px;
 }

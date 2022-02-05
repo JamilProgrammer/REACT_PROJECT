@@ -28,7 +28,6 @@ import first from "./img/im.png";
 import sec from "./img/im.png";
 import third from "./img/im.png";
 import four from "./img/im.png";
-//
 
 class Sel1 extends Component {
   render() {
